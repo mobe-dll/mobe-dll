@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mobe-dll
 - 👀 I’m interested in Art, Programmig, Architecture
-- 🌱 I’m currently learning haskel
-- 💞️ I’m looking to collaborate on Block chain Art
+- 🌱 I’m currently learning haskell
+- 💞️ I’m looking to collaborate on Block chain based Art
 - 📫 raech me with handle mobe @ twitter
 
 <!---
