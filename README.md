@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mobe-dll
 - 👀 I’m interested in Art, Programmig, Architecture
-- 🌱 I’m currently learning haskell
-- 💞️ I’m looking to collaborate on Blockchain based Art
-- 📫 raech me with handle mobe @ twitter
+- 🌱 I am interested to learn haskell
+- 💞️ Looking to explore on Blockchain based Art
+- 📫 raech me with handle mobE @ twitter
 
 <!---
 mobe-dll/mobe-dll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
