@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mobe-dll
-- 👀 I’m interested in Art, Programmig, Architecture
+- 👀 I’m interested in generative Art, Architecture
 - 🌱 I am interested to learn haskell
-- 💞️ Looking to explore on Blockchain based Art
+- 💞️ exploring Blockchain based Art
 - 📫 reach me with handle mobE @ twitter
 
 <!---
