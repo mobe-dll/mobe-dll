@@ -2,7 +2,7 @@
 - 👀 I’m interested in generative Art & I am an Architect
 - 🌱 I am interested to learn haskell
 - 💞️ Exploring Blockchain based Art
-- 📫 reach me with handle mobE @ twitter
+- 📫 reach me with handle mobE @  twitter
 
 <!---
 mobe-dll/mobe-dll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
